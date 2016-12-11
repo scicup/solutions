@@ -1,0 +1,54 @@
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\AI4.exe.config
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\AI4.exe
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\AI4.pdb
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\IKVM.OpenJDK.Charsets.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\IKVM.Runtime.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\libsvm.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\LIBSVM.NET.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\Newtonsoft.Json.dll
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\bin\Release\Newtonsoft.Json.xml
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\obj\Release\STAArticleClassification.csprojResolveAssemblyReference.cache
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\obj\Release\AI4.exe
+C:\Users\dowla\OneDrive\dokumenty\visual studio 2015\Projects\AI4\AI4\obj\Release\AI4.pdb
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\STAArticleClassification.exe.config
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\STAArticleClassification.exe
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\STAArticleClassification.pdb
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\IKVM.OpenJDK.Charsets.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\IKVM.Runtime.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\libsvm.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\LIBSVM.NET.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\Newtonsoft.Json.dll
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\bin\Release\Newtonsoft.Json.xml
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\obj\Release\STAArticleClassification.csprojResolveAssemblyReference.cache
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\obj\Release\STAArticleClassification.exe
+C:\Users\dowla\OneDrive\Dokumenty\Visual Studio 2015\Projects\STAArticleClassification\STAArticleClassification\obj\Release\STAArticleClassification.pdb
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\STAArticleClassification.exe.config
+C:\Users\dowla\Desktop\proj\STAArticleClassification\obj\Release\STAArticleClassification.exe
+C:\Users\dowla\Desktop\proj\STAArticleClassification\obj\Release\STAArticleClassification.pdb
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\STAArticleClassification.exe
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\STAArticleClassification.pdb
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\IKVM.OpenJDK.Charsets.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\IKVM.Runtime.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\libsvm.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\LIBSVM.NET.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\Newtonsoft.Json.dll
+C:\Users\dowla\Desktop\proj\STAArticleClassification\bin\Release\Newtonsoft.Json.xml
+C:\Users\dowla\Desktop\proj\STAArticleClassification\obj\Release\STAArticleClassification.csprojResolveAssemblyReference.cache
