@@ -1,4 +1,4 @@
-# Challange name
+# Challenge name
 
 SLOVENIAN PRESS AGENCY – ARTICLES’ TOPIC CLASSIFICATION
 
