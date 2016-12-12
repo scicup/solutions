@@ -25,6 +25,10 @@ The objective of the contest is to correctly classify the articles and assign th
 5. Michał Korman - 0.897 (2 points) - https://scicup.com/userDetails.action?hid=10alG1Z
 6. Mateusz Korzeniowski - 0.896 (1 point) - https://scicup.com/userDetails.action?hid=MmOoyM8
 
+## Solution
+
+The solution (actual specialCoverage values) can be found in "solution" folder.
+
 ## Basic stats
 
 Number of participants: 42
